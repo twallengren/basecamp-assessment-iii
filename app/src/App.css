@@ -1,0 +1,29 @@
+.App {
+  /* display: flex; */
+  background-color: maroon;
+  height: 100%;
+  width: 100%;
+  /* justify-content: space-around;
+  align-items: center */
+}
+
+
+
+
+#Comp1 {
+  background-color: darkslategrey;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#Comp2 {
+  background-color: cadetblue;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#Comp3 {
+  background-color: aliceblue;
+  padding: 10px;
+  border-radius: 10px;
+}

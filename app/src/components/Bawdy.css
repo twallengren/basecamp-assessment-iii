@@ -1,0 +1,24 @@
+#bawdy{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* position: absolute; */
+  top: 0;
+  /* width: 100%; */
+  height: 100vh;
+  width: 100vw;
+  background: rgba(90, 0, 0, 0.753);
+  padding: 0 25px;
+}
+
+#button{
+  /* margin: 10px; */
+  border-radius: 5px;
+  height: 16px;
+  color: black;
+  background: white;
+
+}
+#button:hover{
+  background: rgba(128, 128, 128, 0.089);
+}
